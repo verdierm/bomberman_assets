@@ -1,0 +1,12 @@
+*
+!.gitignore
+!*.glsl
+!*.bmp
+!*.png
+!*.obj
+!*.mtl
+!bomber
+!bomb
+!power
+!tex
+!ui
